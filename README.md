@@ -11,15 +11,16 @@ Technology plays a vital role in day-to-day life activities which in turn made g
 
 This project proposes a “Todo App” to keep track of all the tasks we need to do and helps us stay productive. Its features include login / signup, add todo tasks, automatic deletion once completed, etc. It accepts data allowing them to register to the application. This application stores todo list data and map it to the database. Currently the app works for all the android phones. The project's scope is to extend it's functionality and usage.
 
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/1.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/2.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/3.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/4.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/5.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/6.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/7.jpeg">
-<img width="559" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/8.jpeg">
-
+<div style="display:flex">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/1.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/2.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/3.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/4.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/5.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/6.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/7.jpeg">
+<img width="160" alt="sampleimages" src="https://github.com/pranav2012/Android-Study-Jams/raw/master/screenshots/8.jpeg">
+</div>
 
 <b> Functionality & Concepts used : </b>
 
